@@ -1,0 +1,29 @@
+.paragraph
+{
+  color:red;
+  margin-top: -0.5px;
+}
+.paragraph-continer
+{
+  height: 150px;
+  width: 200px;
+  border:6px solid darkorange;
+}
+.continer
+{
+  display: flex;
+  justify-content: center;
+}
+table,tr,th
+{
+  border-color:red;
+  color:black;
+  
+}
+th
+{
+  color:pink;
+}
+*{
+  color:blue;
+}
