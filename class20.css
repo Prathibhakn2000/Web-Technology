@@ -1,0 +1,80 @@
+.body
+{
+  background-color:azure;
+  
+}
+.heading{
+  color:blue;
+  font-size: 60px;
+}
+.position
+{
+  margin-top:190px;
+  margin-left:190px ;
+}
+.paragraph-width
+{
+  margin-top:-40px ;
+  margin-left: 190px;
+  width: 500px;
+}
+.paragraph
+{
+  font-size: 30px;
+}
+.card
+{
+  width: 450px;
+  height:400px ;
+  background-color:whitesmoke;
+  
+}
+.flex
+{
+  display: flex;
+  justify-content: center;
+  margin-left:440px;
+  margin-top:-220px;
+}
+.input
+{
+  width: 350px;
+  height: 40px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  border:1px solid;
+}
+.button
+{
+  font-size:19px ;
+  width: 360px;
+  height: 40px;
+  background-color: blue;
+  border-radius: ;
+  border-left: ;
+}
+.forget
+{
+  color:blue;
+  font-size: 18px;
+}
+.horizantal
+{
+  width: 320px;
+}
+.create
+{
+  color:white;
+  font-weight: bolder;
+  font-size: 30px;
+  padding: 5px;
+  padding-left: 32px;
+  padding-right: 50px;
+}
+.create-baground
+{
+  height:25px ;
+  width: 300px;
+  background-color: green;
+
+}

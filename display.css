@@ -1,0 +1,21 @@
+/*.display
+{
+  display: block;
+  border: 2px solid orange;
+}
+
+span{
+  background-color: brown;
+
+  text-decoration: none;
+}*/
+
+.decoretion
+{
+  text-decoration: underline;
+  text-decoration-color: blueviolet;
+  text-decoration-style: wavy;
+  text-decoration-thickness: 1px;
+
+}
+
